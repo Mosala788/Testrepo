@@ -1,3 +1,3 @@
 # Simple code to print and output 
 
-print("Print this output")
+print("This is the first output")
